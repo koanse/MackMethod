@@ -1,0 +1,11 @@
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\obj\Debug\MackMethod.Properties.Resources.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\obj\Debug\MackMethod.csproj.GenerateResource.Cache
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\bin\Debug\MackMethod.exe
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\bin\Debug\MackMethod.pdb
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\obj\Debug\MackMethod.exe
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\obj\Debug\MackMethod.pdb
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\obj\Debug\MackMethod.MainForm.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\obj\Debug\MackMethod.ProtocolForm.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\obj\Debug\MackMethod.AboutBox.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\obj\Debug\MackMethod.HelpForm.resources

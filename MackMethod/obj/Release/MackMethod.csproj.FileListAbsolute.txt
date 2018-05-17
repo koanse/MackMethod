@@ -1,0 +1,11 @@
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\obj\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\obj\Release\MackMethod.AboutBox.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\obj\Release\MackMethod.HelpForm.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\obj\Release\MackMethod.ProtocolForm.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\obj\Release\MackMethod.MainForm.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\obj\Release\MackMethod.Properties.Resources.resources
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\obj\Release\MackMethod.csproj.GenerateResource.Cache
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\bin\Release\MackMethod.exe
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\bin\Release\MackMethod.pdb
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\obj\Release\MackMethod.exe
+D:\Documents and Settings\Antony\Мои документы\Visual Studio 2008\Projects\MackMethod\MackMethod\obj\Release\MackMethod.pdb
